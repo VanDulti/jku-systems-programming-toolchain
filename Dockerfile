@@ -1,6 +1,4 @@
-# can be used to compile manually within the container or as a clion toolchain to develop seemlessly in clion,
-# even on non-linux non-x86 hosts (e.g. arm machines such as apple silicon macs) - removing the hustle of system
-# & compiler dependent behaviour.
+# can be used to compile manually within the container or as a clion toolchain to develop seemlessly in clion, even on non-linux non-x86 hosts (e.g. arm machines such as apple silicon macs) - removing the hustle of system & compiler dependent behaviour.
 #
 # derived from https://github.com/JetBrains/clion-remote/blob/master/Dockerfile.cpp-env-ubuntu
 
